@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikos
-- 👀 I’m interested in E-Comerce, Data analytics and Programming
-- 🌱 I’m currently learning Python, R
+- 👀 I’m interested in E-Commerce, DevOps and Programming
+- 🌱 I’m currently learning Python, R and GO
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikos
-- 👀 I’m interested in E-Commerce, DevOps and Programming
+- 👀 I’m interested in AI, E-Commerce, DevOps and Programming
 - 🌱 I’m currently learning Python, R and GO
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
